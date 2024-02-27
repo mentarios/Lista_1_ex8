@@ -43,7 +43,7 @@ namespace Lista_1_ex8
             }
 
 
-
+            // oi
             if (a1 < a2 && a1 < a3 && a1 < a4 && a1 < a5)
             {
                 Console.WriteLine("o menor é: " + a1);
